@@ -11,6 +11,8 @@ using namespace std;
 int width = 600;
 int height = 600;
 
+string git = "My first time with git";
+
 //color
 GLubyte R = 0, B = 0, G = 0;
 int colorIncrementer = 25;
