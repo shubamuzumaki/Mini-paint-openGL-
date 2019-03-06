@@ -1,1 +1,2 @@
-# Color-Switch-Replica-2D-Game-
+# Open GL C++ Program(Without OOP)
+# Run Debug/GLUT.exe
